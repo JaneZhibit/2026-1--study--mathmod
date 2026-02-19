@@ -195,7 +195,7 @@ $$ R = \frac{n_{same}}{n_{total}} $$
 ::::::::::::::
 
 
-#  Выводы
+#  Заключение
 
 ##  Выводы
 :::::::::::::: {.columns align=center}
@@ -220,3 +220,17 @@ $$ R = \frac{n_{same}}{n_{total}} $$
  3. Применение: этническое расселение, языковые группы, социальные сети
 :::
 ::::::::::::::
+
+
+##  Список литературы
+
+
+- **Schelling, T. C.** Dynamic models of segregation / T. C. Schelling // Journal of Mathematical Sociology. — 1971. — Vol. 1, no. 2. — P. 143-186. — URL: https://www.stat.berkeley.edu/~aldous/157/Papers/Schelling_Seg_Models.pdf (дата обращения: 17.02.2026). — Текст : электронный.
+
+
+- **Hart, V.** The Parable of the Polygons / V. Hart, N. Case. — San Francisco, 2014. — URL: https://ncase.me/polygons/ (дата обращения: 17.02.2026). — Текст : электронный ; Изображение (движущееся ; трехмерное) : электронные.
+
+- **Thomas Schelling: Models of segregation** // Wikipedia: The Free Encyclopedia. — San Francisco, 2025. — URL: https://en.wikipedia.org/wiki/Thomas_Schelling#Models_of_segregation (дата обращения: 17.02.2026). — Текст : электронный.
+
+
+
