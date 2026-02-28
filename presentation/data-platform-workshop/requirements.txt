@@ -1,0 +1,7 @@
+apache-airflow==2.7.1
+apache-airflow-providers-apache-kafka
+redis
+apache-flink==1.18.0
+kafka-python
+clickhouse-connect
+dbt-clickhouse
