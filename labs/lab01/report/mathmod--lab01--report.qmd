@@ -124,9 +124,16 @@ license: "CC BY"
 
 ![Поддержка кода julia](image/26.png){#fig-026 width=70%}
 
+
+{{< include ../project/markdown/02_exponential_growth/02_exponential_growth.qmd >}}
+
+
+
 # Выводы
 
 В ходе работы была произведена настройка рабочего пространства, установка необходимых ПО, реализовано несколько моделей с помощью кода Julia .
+
+
 
 # Список литературы{.unnumbered}
 
